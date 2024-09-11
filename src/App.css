@@ -145,3 +145,15 @@
     width: 90%; /* Adjust as needed */
   }
 }
+
+.product-grid h1 {
+  text-align: center;
+  display: flex;
+  place-content: center;
+}
+
+.product-grid h1 div {
+  width: max-content;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+}
